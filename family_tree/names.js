@@ -102,7 +102,7 @@ function init() {
 					{ key: 9, parent: 3, name: "Walt", gender: "M", married: "Susef" },
 						{ key: 31, parent: 9, name: "Placeholder", gender: "M" },
 						{ key: 32, parent: 9, name: "Haseo", gender: "M" },
-						{ key: 33, parent: 9, name: "Jihon", gender: "M" },
+						{ key: 33, parent: 9, name: "Jihoon", gender: "M" },
 					{ key: 10, parent: 3, name: "Lylmar Eiramsor (Gosipeng)", gender: "F" },
 						{ key: 34, parent: 10, name: "(Ramboy)", gender: "M" },
 					{ key: 11, parent: 3, name: "Dana Xanthea (Ibing)", gender: "F", married: "Noue" },
